@@ -1,0 +1,32 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/105897632-1557241558937avatar-e1541360922907.jpg?v=1664130328&w=1920&h=1080",
+      "deleted": false
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "imageUrl": "https://images.ladepeche.fr/api/v1/images/view/5c34d2f53e454659430d33a5/large/image.jpg",
+      "deleted": false
+    },
+    {
+      "id": "3",
+      "title": "Avengers Endgame",
+      "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/Ud01bY7Cq96hTiS6CPRjc2rngXw=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/15969338/surprise_marvel_releases_a_new_full_trailer_and_poster_for_avengers_endgame_social.jpg",
+      "deleted": false
+    },
+    {
+      "id": "4",
+      "title": "Skyfall",
+      "description": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4NTQ1Mzc1NV5BMl5BanBnXkFtZTgwODQ2NzA0NDE@._V1_.jpg",
+      "deleted": true
+    }
+  ]
+} 
